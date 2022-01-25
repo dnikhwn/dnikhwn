@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dnikhwn
 - 👀 I’m interested in gaming & sports
-- 🌱 I’m currently learning foundation
+- 🌱 I’m currently learning 
 
 <!---
 dnikhwn/dnikhwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
